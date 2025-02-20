@@ -10,8 +10,8 @@ A dynamic and responsive blog website built with Next.js and Tailwind CSS, featu
 
 # Installation & Setup
 # Clone the repository:
-- git clone https://github.com/yourusername/motorbike-blog.git
-- cd motorbike-blog
+- git clone https://github.com/yourusername/bike-blog-website.git
+- cd bike-blog-website
 # Install dependencies:
 - npm install  
 # Start the development server:
