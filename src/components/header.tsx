@@ -43,7 +43,7 @@ export default function Header() {
                 Home
               </Link>
             </li>
-            {/* Dropdown for Categories */}
+            
             <li className="relative">
               <button
                 onClick={() => setIsOpen(!isOpen)}
